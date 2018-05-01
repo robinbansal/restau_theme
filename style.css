@@ -1,0 +1,254 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding:0%;
+    overflow-x: hidden;
+
+}
+
+.bg-main {
+    background: url('images/bg.jpg');
+    background-size: cover;
+}
+
+h1,h2,h3,h4,h6 {
+    font-family: 'Pacifico', cursive;
+    color: #bb9f05 !important;
+}
+
+.navbar {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    background-color: transparent !important;
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff!important;
+    padding-left: 2rem!important;
+
+}
+
+.nav-link:hover {
+    font-weight: bolder;
+    color: #bb9f05 !important;
+
+}
+
+.contact-primary-button {
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #bb9f05;
+    margin-left: 15px;
+}
+
+.contact-primary-button:hover {
+    background: #bb9f05;
+    border: 2px solid #bb9f05;
+}
+
+.jumbotron {
+    background: transparent;
+    color: #fff;
+    padding: 5rem;
+    margin-bottom: 0rem;
+}
+
+.jumbotron p {
+    margin-top: 2rem;
+}
+.rounded-circle-wine{
+    width: 330px; 
+    height: 200px;
+    margin-bottom: 2rem;
+    
+}
+.menu-text {
+    padding: 2rem;
+    margin-bottom: 5rem;
+}
+
+.main-menu {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.main-menu p,
+h1 {
+    padding-bottom:
+}
+
+.price {
+    font-size: 5rem;
+    margin-top: 2rem;
+}
+
+.main-tastebuds {
+    background: url('images/bg2.jpg');
+    background-size: cover;
+    background-attachment:fixed;
+    color: #fff;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.main-tastebuds-img {
+    padding-bottom: 2rem;
+}
+
+.main-tastebuds-img {
+    width: 100%;
+}
+
+
+.container-fluid {
+    margin: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+
+.tastebuds-row {
+    padding-top: 3rem;
+}
+
+.carousel-item {
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.col-pad-0 {
+    padding: 0;
+}
+.chefs{
+   width: 330px; 
+    height: 200px;
+    margin-bottom: 2rem;
+    
+}
+
+.chef-box {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.chef-box-img {
+    width:100%;
+    
+    transition: all .5s none;
+    transition-delay: 0.5s;
+    transition-duration: 0.5s;
+}
+
+.chef-box-img:hover {
+    filter: grayscale(1);
+
+}
+
+.chef-box h4,p {
+    margin-top:  1.2rem;
+}
+
+
+
+.chef-box a {
+    color: inherit;
+}
+
+.chef-box a:hover {
+    color: #bb9f05;
+    font-weight: bolder;
+}
+
+.fa {
+    font-size: 24px!important;
+    padding: 5px;
+}
+
+.reservation-box {
+    background: url('images/reservations-bg.jpg');
+    background-size: cover;
+    background-position: auto;
+    background-attachment: fixed;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    color: #fff;
+
+}
+
+.reservation-box img {
+/*    padding-bottom: 2rem;*/
+    width: 330px; 
+    height: 200px;
+    margin-bottom: 2rem;
+    
+}
+
+.reservation-box a {
+    margin-top:  2rem;
+}
+
+form {
+    border: 5px solid #bb9f05;
+    padding: 5rem;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .5rem .75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #464a4c;
+    background-color: transparent;
+    background-image: none;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 2px solid hsl(51, 95%, 38%)!important;
+    border: none;
+    border-radius: 0px;
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+}
+
+.form-group {
+    margin: 0 5rem;
+}
+
+label {
+    display: inline-block;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background: #000;
+    border-top: 2px solid #bb9f05;
+}
+
+.social-icon-pack-white {
+    text-align: right;
+}
+
+.social-icon-pack-white a {
+    color: #fff!important;
+}
+
+.social-icon-pack-white a:hover {
+    color: #bb9f05!important;
+}
+
+.animated {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-delay: 0s;
+}
