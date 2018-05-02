@@ -9,7 +9,7 @@ To begin using this template, choose one of the following options to get started
 - [Fork, Clone, or Download on GitHub](https://github.com/robinbansal/restaurant-theme)
 
 ## Live preview
- [View Live Preview]()
+ [View Live Preview](https://robinbansal.github.io/Restau-tHEME/)
 ### Restaurant Website Template
 
 ![bistro](https://user-images.githubusercontent.com/26331958/39125318-2abfa316-471c-11e8-9368-505ad1a59789.png)
