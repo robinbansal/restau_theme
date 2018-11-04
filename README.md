@@ -16,7 +16,7 @@ To begin using this template, choose one of the following options to get started
 
 ![2018-04-24 3](https://user-images.githubusercontent.com/26331958/39189456-eae38a9e-47ef-11e8-8a9e-6cc320198453.png)
 
-Bistro is a free, responsive website theme for restaurants, using the Bootstrap 4 framework and HTML5 layouts, converted from a HTML template, without any 3rd party dependencies.
+Bistro is a free, responsive website theme for restaurants, using the Bootstrap 4 framework and HTML 5 layouts, converted from a HTML template, without any 3rd party dependencies.
 
 ## Responsive Design!
 
